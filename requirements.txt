@@ -1,0 +1,9 @@
+accelerate
+huggingface-hub
+Pillow
+torch
+torchvision
+transformers
+einops
+streamlit
+timm
