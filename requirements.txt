@@ -7,3 +7,8 @@ transformers
 einops
 streamlit
 timm
+pandas
+numpy
+seaborn
+matplotlib
+psycopg2-binary
